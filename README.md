@@ -1,6 +1,6 @@
 # Operating Systems Projects
 
-By Christodoulou Dimitrios, Biliouri Victoria, Sideris Gerasimos
+By Christodoulou Dimitrios, Biliouri Victoria, Sideris Gerasimos.
 
 Implemented for ce321 uth.
 
